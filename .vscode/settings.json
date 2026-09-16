@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Stages of farming.sln"
+    "dotnet.defaultSolution": "Stages_of_farming.sln"
 }
